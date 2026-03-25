@@ -41,7 +41,11 @@
   &nbsp;&nbsp;gracias a mis años estudiante y formación he adquirido experiencia perfeccionando mis habilidades en herramientas digitales, &nbsp;&nbsp;optimizando mi eficiencia laboral.
 Gracias a esto puedo desempeñarme tambien sin problema en cualquier otro rol, por ejemplo ya eh trabajado previamente en:
 <h6>-Game Designer</h6>
-<h6>-Game Designer</h6>
+<h6>-Programmer(C#)</h6>
+<h6>-QA(Quality Assurance)</h6>
+<h6>-Animator</h6>
+<h6>-Entre otros,...</h6>
+
   
 
   
