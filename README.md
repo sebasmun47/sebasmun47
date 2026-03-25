@@ -11,7 +11,39 @@
 
 <h6 align="left" </h6>
   <b>&nbsp;&nbsp;Hola Bienvenid@ a mi Portafolio,</b><br>
-  &nbsp;&nbsp;Soy Sebastian Muñoz, Estudiante de Ingeniería en Realidad Virtual y Diseño de Juegos Digitales
+  &nbsp;&nbsp;Soy Sebastian Muñoz, Estudiante de Ultimo año de Ingeniería en Realidad Virtual y Diseño de Juegos Digitales
+</p>
+<h6 align="left" </h6>
+  <b>&nbsp;&nbsp;Tengo un perfil Generalista</b><br>
+  &nbsp;&nbsp;Si pudiera elegir me gustaria desempeñarme en el Rol de: Artista 3D / Environment Artist / Level Designer ,
+  pero puedo &nbsp;&nbsp;desempeñarme en cualquier otro rol que se me asigne
+<br><br>
+<table width="100%">
+  <tr>
+    <td align="center" width="33%">
+      <h3>Game Designer</h3>
+    </td>
+    <td align="center" width="33%">
+      <h3>Level Designer</h3>
+    </td>
+    <td align="center" width="33%">
+      <h3>3D Environment Artist</h3>
+    </td>
+  </tr>
+</table>  
+  
+
+  
+  Level Designer
+  Gameplay Designer
+  Technical Designer
+  3D Artist (Props / Environment)
+  Environment Artist
+  UI/UX Designer (Videojuegos)
+  Programmer (C#)
+  Generalist Game Developer
+  Animator
+
 </p>
 
 
