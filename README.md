@@ -37,22 +37,15 @@
   </tr>
 </table>
 <h6 align="left" </h6>
-  <b>&nbsp;&nbsp;Tengo un perfil Generalista</b><br>
-  &nbsp;&nbsp;De preferencia me gustaria desempeñarme en estos Roles de: Artista 3D / Environment Artist / Level Designer ,
-  pero puedo &nbsp;&nbsp;desempeñarme en cualquier otro rol que se me asigne
-<br><br>
+  <b>&nbsp;&nbsp;...Pero puedo desempeñarme en cualquier Rol que se me asigne en algun proyecto</b><br>
+  &nbsp;&nbsp;gracias a mis años estudiante y formación he adquirido experiencia perfeccionando mis habilidades en herramientas digitales, &nbsp;&nbsp;optimizando mi eficiencia laboral.
+Gracias a esto puedo desempeñarme tambien sin problema en cualquier otro rol, por ejemplo ya eh trabajado previamente en:
+<h6>-Game Designer</h6>
+<h6>-Game Designer</h6>
   
 
   
-  Level Designer
-  Gameplay Designer
-  Technical Designer
-  3D Artist (Props / Environment)
-  Environment Artist
-  UI/UX Designer (Videojuegos)
-  Programmer (C#)
-  Generalist Game Developer
-  Animator
+ 
 
 </p>
 
