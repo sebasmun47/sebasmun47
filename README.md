@@ -17,21 +17,25 @@
   &nbsp;&nbsp;De preferencia y mis roles principales donde me gustaria desempeñarme son: 
 <br><br>
 
-<table width="100%">
+<table>
   <tr>
-    <td align="center" width="33%">
+    <td align="center">
       <h3>Props y Assets Artist</h3>
     </td>
-    &nbsp;
-    <td align="center" width="33%">
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;</td> <!-- espacio entre columnas -->
+    <td align="center">
       <h3>Level Designer</h3>
     </td>
-    &nbsp;
-    <td align="center" width="33%">
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td align="center">
       <h3>3D Environment Artist</h3>
     </td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td align="center">
+      <h3>UI/UX Designer</h3>
+    </td>
   </tr>
-</table>  
+</table>
 <h6 align="left" </h6>
   <b>&nbsp;&nbsp;Tengo un perfil Generalista</b><br>
   &nbsp;&nbsp;De preferencia me gustaria desempeñarme en estos Roles de: Artista 3D / Environment Artist / Level Designer ,
