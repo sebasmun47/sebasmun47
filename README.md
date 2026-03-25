@@ -1,5 +1,17 @@
-<h1 align="center">
-Hi, I'm Vishal Maurya!
+<table width="50%" align="center">
+  <tr>
+    <td align="center">
+      <h1>Portafolio Sebastián Muñoz Aravena</h1>
+      <p style="font-size: 12px;">Game Developer Generalista</p>
+    </td>
+  </tr>
+</table>
+
+<h5>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hola Bienvenid@ a mi Portafolio Soy Sebastian Muñoz Estudiante de Ingeniería en Realidad Virtual y Diseño de Juegos Digitales De la Universidad Bernardo O'higgins 
+</h5>
+
+
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
  <!--<img src="https://komarev.com/ghpvc/?username=I-am-vishalmaurya&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="vishalmaurya" />-->
  <img src="https://gpvc.arturio.dev/I-am-vishalmaurya" alt="Profile views" align='right'/> <a href="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/"> </a> 
