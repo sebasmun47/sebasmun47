@@ -7,9 +7,12 @@
   </tr>
 </table>
 
-<h5>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hola Bienvenid@ a mi Portafolio Soy Sebastian Muñoz Estudiante de Ingeniería en Realidad Virtual y Diseño de Juegos Digitales De la Universidad Bernardo O'higgins 
-</h5>
+
+
+<h6 align="left" </h6>
+  <b>&nbsp;&nbsp;Hola Bienvenid@ a mi Portafolio,</b><br>
+  &nbsp;&nbsp;Soy Sebastian Muñoz, Estudiante de Ingeniería en Realidad Virtual y Diseño de Juegos Digitales
+</p>
 
 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
