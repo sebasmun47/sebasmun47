@@ -9,7 +9,7 @@
 
 
 <h6 align="left" </h6>
-  <b>&nbsp;&nbsp;Hola Bienvenid@ a mi Portafolio,</b><br>
+  <b>&nbsp;&nbsp;Hola Bienvenid@ a mi Portafolio,  &nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1> </b><br>
   &nbsp;&nbsp;Soy Sebastian Muñoz, Estudiante de Ultimo año de Ingeniería en Realidad Virtual y Diseño de Juegos Digitales
 </p>
 <h6 align="left" </h6>
@@ -49,8 +49,6 @@ Gracias a esto puedo desempeñarme tambien sin problema en cualquier otro rol, p
   
 
   
- 
-
 </p>
 
 
