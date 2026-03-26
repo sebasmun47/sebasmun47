@@ -69,15 +69,15 @@ Gracias a esto puedo desempeñarme tambien sin problema en cualquier otro rol, p
  <!---->
  
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<!-- -->
 
 
-<img align="left" src="https://github.com/sebasmun47/sebasmun47/blob/main/Punpun.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="340" />
+<img align="left" src="https://github.com/sebasmun47/sebasmun47/blob/main/seiyapng.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="340" />
 
 <hr><!--separar contenido-->
 
 ```
-I-am-vishalmaurya@github
+https://github.com/sebasmun47
 -------------------------
 💻 Hola, soy Sebastián Muñoz, desarrollador 
 de videojuegos generalista.
