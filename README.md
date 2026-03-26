@@ -153,34 +153,12 @@ I-am-vishalmaurya@github
 ### 🧰 Contacto 
 <h2 align="center">Mis Redes</h2>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/Logo1png.png" width="60">
+  <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/LogoCorreopng.png" width="60">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/Logo2png.png" width="60">
+  <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/LogoArtStationpng.png" width="60">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/Logo3png.png" width="60">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/Logo4png.png" width="60">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/Logo5png.png" width="60">
+  
 </p>
-
-
-
-
-
-
-
-
-
-
-
-         
-    
-                 
-
-
-
-
 
 
 Credits: [I-am-vishalmaurya](https://github.com/I-am-vishalmaurya)
