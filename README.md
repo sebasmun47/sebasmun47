@@ -107,14 +107,29 @@ I-am-vishalmaurya@github
   <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/Logo5png.png" width="60">
 </p>
 
-<!--Seccion de Links>-->
-## 🛠️ Arte 
-<p align="left">
-<img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/collageDibujos2.jpg" width="47%">
-&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/collageDibujos2.jpg" width="47%">
-</p>
+<!--Seccion de Links-->
+## 🛠️ Arte  
 
+### Algunos de mis trabajos  
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/collageDibujos2.jpg" width="100%">
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/collageDibujos2.jpg" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="TU_LINK_DE_DRIVE_1">Ver proyecto</a>
+    </td>
+    <td align="center">
+      <a href="TU_LINK_DE_DRIVE_2">Ver proyecto</a>
+    </td>
+  </tr>
+</table>
 ### 🧰 Frameworks and Libraries
 
 <p>
