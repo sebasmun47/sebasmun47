@@ -149,8 +149,9 @@ I-am-vishalmaurya@github
   </tr>
 </table>
 
-### 🧰 Contacto y Redes
-
+<!--Seccion de Links-->
+### 🧰 Contacto 
+<h2 align="center">Mis Redes</h2>
 <p align="left">
   <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/Logo1png.png" width="60">
   &nbsp;&nbsp;&nbsp;&nbsp;
