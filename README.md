@@ -172,7 +172,12 @@ I-am-vishalmaurya@github
 
 ### 🧰 Contacto 
 <h2 align="center">Mis Redes</h2>
-
+<p align="left">
+  <a href="mailto:munozsebastianx@gmail.com">
+    <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/LogoCorreopng.png" width="60"><br>
+    munozsebastianx@gmail.com
+  </a>
+</p>
 
 <p align="left">
   <a href="mailto:munozsebastianx@gmail.com">
