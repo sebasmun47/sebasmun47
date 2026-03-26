@@ -182,6 +182,7 @@ adaptándome a las necesidades de cada proyecto.
       <a href="TU_LINK_DE_DRIVE">
         <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/LogoDrivepng.png" width="60"><br/>
         Ver Recursos
+        https://drive.google.com/drive/folders/14ZjrWb4VKIurCs9YLhg0tkQVGw5VzJo8?usp=drive_link
       </a>
     </td>
   </tr>
