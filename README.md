@@ -160,36 +160,28 @@ I-am-vishalmaurya@github
 </p>
 
 <!--Seccion de Links-->
-### 🧰 Contacto 
+### 🧰 Contacto
 <h2 align="center">Mis Redes</h2>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/LogoCorreopng.png" width="60">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/LogoArtStationpng.png" width="60">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  
-</p>
 
-### 🧰 Contacto 
-<h2 align="center">Mis Redes</h2>
-<p align="left">
-  <a href="mailto:munozsebastianx@gmail.com">
-    <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/LogoCorreopng.png" width="60"><br>
-    munozsebastianx@gmail.com
-  </a>
-</p>
+<table align="left">
+  <tr>
+    <td align="center">
+      <a href="mailto:munozsebastianx@gmail.com">
+        <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/LogoCorreopng.png" width="60"><br/>
+        munozsebastianx@gmail.com
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.artstation.com/TU_USUARIO">
+        <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/LogoArtStationpng.png" width="60"><br/>
+        ArtStation
+      </a>
+    </td>
+  </tr>
+</table>
 
-<p align="left">
-  <a href="mailto:munozsebastianx@gmail.com">
-    <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/LogoCorreopng.png" width="60">
-  </a>
 
-  &nbsp;&nbsp;&nbsp;&nbsp;
 
-  <a href="https://www.artstation.com/TU_USUARIO">
-    <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/LogoArtStationpng.png" width="60">
-  </a>
-</p>
 
 <h2 align="center"></h2>
 Last Edited On: 26/03/2026
