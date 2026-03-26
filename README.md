@@ -86,12 +86,24 @@ I-am-vishalmaurya@github
 
 
 ## 🛠️ Mis Herramientas De trabajo Principales
-<a href="https://unity.com/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/UnityLogo2022.png" width="60" height="60" alt="Unity">
+<a href="https://unity.com/" style="text-decoration:none;">
+  <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/Logo1png.png" width="60" height="60" alt="Unity" style="display:block;">
 </a>
-
-<a href="https://www.adobe.com/products/photoshop.html">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" width="60" height="60" alt="Photoshop">
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://unity.com/" style="text-decoration:none;">
+  <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/Logo2png.png" width="60" height="60" alt="Unity" style="display:block;">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://unity.com/" style="text-decoration:none;">
+  <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/Logo3png.png" width="60" height="60" alt="Unity" style="display:block;">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://unity.com/" style="text-decoration:none;">
+  <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/Logo4png.png" width="60" height="60" alt="Unity" style="display:block;">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://unity.com/" style="text-decoration:none;">
+  <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/Logo5png.png" width="60" height="60" alt="Unity" style="display:block;">
 </a>
 
 ### 👨‍💻 Programming Languages
