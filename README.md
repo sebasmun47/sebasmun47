@@ -152,12 +152,19 @@ I-am-vishalmaurya@github
 <!--Seccion de Links-->
 ### Recursos que eh desarrolado 
 <h2 align="center">Enlace Directo al Drive con los Recursos</h2>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/LogoDrivepng.png" width="60">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  
-  
-</p>
+
+<table align="left">
+  <tr>
+    <td align="center">
+      <a href="TU_LINK_DE_DRIVE">
+        <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/LogoDrivepng.png" width="60"><br/>
+        Ver Recursos
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br clear="all"/>
 
 <!--Seccion de Links-->
 ### CONTACTO
