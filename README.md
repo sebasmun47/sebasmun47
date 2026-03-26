@@ -41,8 +41,10 @@ Me considero afortunado de dedicarme a la creación de &nbsp;&nbsp;videojuegos, 
     </td>
   </tr>
 </table>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/tu_fondo.png" width="100%">
+<p align="left">
+<img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/collageDibujos2.jpg" width="47%">
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/collageDibujos2.jpg" width="47%">
 </p>
 
 <h6 align="left" </h6>
