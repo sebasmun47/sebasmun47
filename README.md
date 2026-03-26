@@ -62,33 +62,41 @@ Gracias a esto puedo desempeñarme tambien sin problema en cualquier otro rol, p
 
 <h2 align="center"></h2>
 <h2 align="center">Acerca de Mi</h2>
-<b>&nbsp;&nbsp;Hola Bienvenid@ a mi Portafolio,  &nbsp;<img 
 
 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
- <!--<img src="https://komarev.com/ghpvc/?username=I-am-vishalmaurya&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="vishalmaurya" />-->
+
+  
+ <!---->
  
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
-</p>
 
-<img align="left" src="https://github.com/sebasmun47/sebasmun47/blob/main/Punpun.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
-<hr>
+
+<img align="left" src="https://github.com/sebasmun47/sebasmun47/blob/main/Punpun.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="340" />
+
+<hr><!--separar contenido-->
 
 ```
 I-am-vishalmaurya@github
 -------------------------
-💻 I am a self taught Full Stack Developer and a Machine Learning Developer
-📚 I have a Bachelors in Computer Science from the University of Mumbai at India
-📝 I have a strong interest in Data Science and Artificial Intelligence
-🔭 Working on Deep Learning & Machine Learning
-🌱 Learning about Computer Vision and Machine Learning stuff
-🌟 Main languages: Python, JavaScript
-🚩 Interested in Full Stack Machine Learning Application development
-💖 In a complicated relationship with Neural Networks
-🎵 Love metal, lofi, jazz and soft music
+💻 Hola, soy Sebastián Muñoz, desarrollador 
+de videojuegos generalista.
+ Me considero afortunado de dedicarme a la
+creación de videojuegos, una disciplina que
+no solo me apasiona, sino que también disfruto
+profundamente.
+Dentro de las distintas áreas del desarrollo, 
+tengo una especial afinidad por el level design, 
+ya que me motiva crear y construir escenarios
+coherentes y significativos a partir de él amor
+que tengo por los videojuegos. Además, cuento con
+experiencia con el modelado 3D, lo que me permite
+diseñar y hacer mis propios Assets, props y
+environment de los mundos que creo.
+Aun así, mi perfil generalista me permite desempeñarme
+de manera sólida en distintas áreas del desarrollo,
+adaptándome a las necesidades de cada proyecto.
+
 ```
 <hr>
 
