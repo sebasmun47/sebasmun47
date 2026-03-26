@@ -160,7 +160,7 @@ I-am-vishalmaurya@github
 </p>
 
 <!--Seccion de Links-->
-### 🧰 Contacto
+### CONTACTO
 <h2 align="center">Mis Redes</h2>
 
 <table align="left">
@@ -180,8 +180,7 @@ I-am-vishalmaurya@github
   </tr>
 </table>
 
-
-
+<br clear="all"/>
 
 <h2 align="center"></h2>
 Last Edited On: 26/03/2026
