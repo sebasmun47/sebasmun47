@@ -16,8 +16,12 @@
 &nbsp;&nbsp;Me llamo Sebastian Muñoz, </p>
 <!--siguiente Parrafo-->
 <h6 align="left" </h6>
-<b>&nbsp;&nbsp;Estudiante de Ultimo año de Ingeniería en Realidad Virtual y Diseño de &nbsp;&nbsp;Juegos Digitales</b><br>   <h6 align="left" </h6>
-<b>&nbsp;&nbsp;Tengo un perfil de Game Designer Generalista</b><br>
+<b>&nbsp;&nbsp;Estudiante de Ultimo año de Ingeniería en Realidad Virtual y Diseño de &nbsp;&nbsp;Juegos Digitales,
+Me considero afortunado de dedicarme a la creación de &nbsp;&nbsp;videojuegos, una disciplina que no solo me apasiona, sino que también &nbsp;&nbsp;disfruto profundamente.</b><br>   <h6 align="left" </h6>
+<b></b><br>
+<b></b><br>
+<b></b><br>
+<b>&nbsp;&nbsp;Tengo un perfil de Game Designer Generalista,</b><br>
 &nbsp;&nbsp;Y Mis roles principales donde me gustaria desempeñarme son: 
 <br><br>
 
@@ -41,9 +45,9 @@
   </tr>
 </table>
 <h6 align="left" </h6>
-  <b>&nbsp;&nbsp;...Pero puedo desempeñarme en cualquier Rol que se me asigne los proyectos que trabaje,</b><br>
+<b>&nbsp;Sin embargo, puedo desempeñarme sin inconvenientes en cualquier rol que se me asigne, según las necesidades de los proyectos en &nbsp;los que he trabajado,</b><br>
   &nbsp;gracias a mis años estudiante y formación he adquirido experiencia perfeccionando mis habilidades en herramientas digitales, &nbsp;optimizando mi eficiencia laboral.
-Gracias a esto puedo desempeñarme tambien sin problema en cualquier otro rol, por ejemplo ya eh trabajado previamente en:
+Gracias a esto puedo desempeñarme tambien sin problema en cualquier otro rol, por ejemplo ya eh &nbsp;trabajado previamente en:
 <h6>-Game Designer</h6>
 <h6>-Programmer(C#)</h6>
 <h6>-QA(Quality Assurance)</h6>
