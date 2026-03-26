@@ -7,6 +7,9 @@
   </tr>
 </table>
 
+<img align="left" src="https://github.com/sebasmun47/sebasmun47/blob/main/kurochan.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
+<hr>
+
 
 <h6 align="left" </h6>
   <b>&nbsp;&nbsp;Hola Bienvenid@ a mi Portafolio,  &nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1> </b><br>
