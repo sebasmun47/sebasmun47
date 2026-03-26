@@ -114,17 +114,21 @@ I-am-vishalmaurya@github
 <table>
   <tr>
     <td align="center">
+      <h2>Dibujos</h2>
       <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/collageDibujos2.jpg" width="100%">
     </td>
     <td align="center">
+      <h2>-Game Designer</h2>
       <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/collageDibujos2.jpg" width="100%">
     </td>
   </tr>
   <tr>
     <td align="center">
+      <h2>-Game Designer</h2>
       <a href="TU_LINK_DE_DRIVE_1">Ver proyecto</a>
     </td>
     <td align="center">
+      <h2>-Game Designer</h2>
       <a href="TU_LINK_DE_DRIVE_2">Ver proyecto</a>
     </td>
   </tr>
