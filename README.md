@@ -41,6 +41,10 @@ Me considero afortunado de dedicarme a la creación de &nbsp;&nbsp;videojuegos, 
     </td>
   </tr>
 </table>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/tu_fondo.png" width="100%">
+</p>
+
 <h6 align="left" </h6>
 <b>&nbsp;Sin embargo, puedo desempeñarme sin inconvenientes en cualquier rol que se me asigne, según las necesidades de los proyectos en &nbsp;los que he trabajado,</b><br>
   &nbsp;gracias a mis años estudiante y formación he adquirido experiencia perfeccionando mis habilidades en herramientas digitales, &nbsp;optimizando mi eficiencia laboral.
