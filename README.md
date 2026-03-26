@@ -17,7 +17,7 @@
 </p>
 <h6 align="left" </h6>
   <b>&nbsp;&nbsp;Tengo un perfil Generalista</b><br>
-  &nbsp;&nbsp;De preferencia y mis roles principales donde me gustaria desempeñarme son: 
+  &nbsp;&nbsp;Mis roles principales donde me gustaria desempeñarme son: 
 <br><br>
 
 <table>
