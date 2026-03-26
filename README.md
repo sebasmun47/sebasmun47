@@ -122,21 +122,21 @@ adaptándome a las necesidades de cada proyecto.
 <table>
   <tr>
     <td align="center">
-      <h2>Dibujos</h2>
+      <h2>Concept art/Dibujos</h2>
       <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/collageDibujos2.jpg" width="100%">
     </td>
     <td align="center">
-      <h2>-Game Designer</h2>
+      <h2>Modelos 3D</h2>
       <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/collageDibujos2.jpg" width="100%">
     </td>
   </tr>
   <tr>
     <td align="center">
-      <h2>-Game Designer</h2>
+      <h2>Proyectos en Unity</h2>
       <a href="TU_LINK_DE_DRIVE_1">Ver proyecto</a>
     </td>
     <td align="center">
-      <h2>-Game Designer</h2>
+      <h2>Proyectos en Unreal Engine</h2>
       <a href="TU_LINK_DE_DRIVE_2">Ver proyecto</a>
     </td>
   </tr>
