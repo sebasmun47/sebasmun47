@@ -122,44 +122,27 @@ adaptándome a las necesidades de cada proyecto.
 <table>
   <tr>
     <td align="center">
-      <h2>Concept art/Dibujos</h2>
+      <b>Concept art/Dibujos</b><br>
       <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/collageDibujos2.jpg" width="100%">
     </td>
     <td align="center">
-      <h2>Modelos 3D</h2>
+      <b>Modelos 3D</b><br>
       <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/collageDibujos2.jpg" width="100%">
     </td>
   </tr>
   <tr>
     <td align="center">
-      <h2>Proyectos en Unity</h2>
       <a href="TU_LINK_DE_DRIVE_1">Ver proyecto</a>
     </td>
     <td align="center">
-      <h2>Proyectos en Unreal Engine</h2>
       <a href="TU_LINK_DE_DRIVE_2">Ver proyecto</a>
     </td>
   </tr>
 </table>
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/collageDibujos2.jpg" width="100%">
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/collageDibujos2.jpg" width="100%">
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="TU_LINK_DE_DRIVE_1">Ver proyecto</a>
-    </td>
-    <td align="center">
-      <a href="TU_LINK_DE_DRIVE_2">Ver proyecto</a>
-    </td>
-  </tr>
-</table>
+
+
+
 
 <!--Seccion de Links-->
 ### Recursos que eh desarrolado 
