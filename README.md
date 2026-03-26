@@ -176,26 +176,14 @@ adaptándome a las necesidades de cada proyecto.
 ### Recursos que eh desarrolado 
 <h2 align="center">Enlace Directo al Drive con los Recursos</h2>
 
-<table align="left">
-  <tr>
-    <td align="center">
-      <a href="TU_LINK_DE_DRIVE">
-        <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/LogoDrivepng.png" width="60"><br/>
-        Ver Recursos
-        <!--Link del Drive-->
-        https://drive.google.com/drive/folders/14ZjrWb4VKIurCs9YLhg0tkQVGw5VzJo8?usp=sharing
-        https://drive.google.com/drive/folders/14ZjrWb4VKIurCs9YLhg0tkQVGw5VzJo8?usp=drive_link
-      </a>
-    </td>
-  </tr>
-</table>
 
+<!--Link del Drive-->
 <table align="left">
   <tr>
     <td align="center">
       <a href="https://drive.google.com/drive/folders/14ZjrWb4VKIurCs9YLhg0tkQVGw5VzJo8?usp=sharing">
         <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/LogoDrivepng.png" width="60"><br/>
-        Ver Recursos
+        Link de los Recursos
       </a>
     </td>
   </tr>
