@@ -13,11 +13,12 @@
 
 <h6 align="left" </h6>
   <b>&nbsp;&nbsp;Hola Bienvenid@ a mi Portafolio,  &nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1> </b><br>
-  &nbsp;&nbsp;Soy Sebastian Muñoz, Estudiante de Ultimo año de Ingeniería en Realidad Virtual y Diseño de Juegos Digitales
-</p>
+&nbsp;&nbsp;Me llamo Sebastian Muñoz, </p>
+<!--siguiente Parrafo-->
 <h6 align="left" </h6>
-  <b>&nbsp;&nbsp;Tengo un perfil Generalista</b><br>
-  &nbsp;&nbsp;Mis roles principales donde me gustaria desempeñarme son: 
+<b>&nbsp;&nbsp;Estudiante de Ultimo año de Ingeniería en Realidad Virtual y Diseño de &nbsp;&nbsp;Juegos Digitales</b><br>   <h6 align="left" </h6>
+<b>&nbsp;&nbsp;Tengo un perfil de Game Designer Generalista</b><br>
+&nbsp;&nbsp;Y Mis roles principales donde me gustaria desempeñarme son: 
 <br><br>
 
 <table>
@@ -40,8 +41,8 @@
   </tr>
 </table>
 <h6 align="left" </h6>
-  <b>&nbsp;&nbsp;...Pero puedo desempeñarme en cualquier Rol que se me asigne en algun proyecto</b><br>
-  &nbsp;&nbsp;gracias a mis años estudiante y formación he adquirido experiencia perfeccionando mis habilidades en herramientas digitales, &nbsp;&nbsp;optimizando mi eficiencia laboral.
+  <b>&nbsp;&nbsp;...Pero puedo desempeñarme en cualquier Rol que se me asigne los proyectos que trabaje,</b><br>
+  &nbsp;gracias a mis años estudiante y formación he adquirido experiencia perfeccionando mis habilidades en herramientas digitales, &nbsp;&nbsp;optimizando mi eficiencia laboral.
 Gracias a esto puedo desempeñarme tambien sin problema en cualquier otro rol, por ejemplo ya eh trabajado previamente en:
 <h6>-Game Designer</h6>
 <h6>-Programmer(C#)</h6>
