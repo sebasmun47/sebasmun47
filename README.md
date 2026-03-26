@@ -113,9 +113,10 @@ adaptándome a las necesidades de cada proyecto.
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/Logo5png.png" width="60">
 </p>
+<br><br>
 
 <!--Seccion de Links-->
-## 🛠️ Arte  
+<h2 align="center">🛠️ Arte</h2>
 
 ### Algunos de mis trabajos   
 
@@ -127,6 +128,33 @@ adaptándome a las necesidades de cada proyecto.
     </td>
     <td align="center">
       <b>Modelos 3D</b><br>
+      <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/collageDibujos2.jpg" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="TU_LINK_DE_DRIVE_1">Ver proyecto</a>
+    </td>
+    <td align="center">
+      <a href="TU_LINK_DE_DRIVE_2">Ver proyecto</a>
+    </td>
+  </tr>
+</table>
+
+<br><br>
+
+<h2 align="center">🛠️ Proyectos</h2>
+
+### Algunos de mis Proyectos  
+
+<table>
+  <tr>
+    <td align="center">
+      <b>Unity</b><br>
+      <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/collageDibujos2.jpg" width="100%">
+    </td>
+    <td align="center">
+      <b>Unreal Engine</b><br>
       <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/collageDibujos2.jpg" width="100%">
     </td>
   </tr>
