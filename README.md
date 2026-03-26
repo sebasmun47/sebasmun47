@@ -86,26 +86,17 @@ I-am-vishalmaurya@github
 
 
 ## 🛠️ Mis Herramientas De trabajo Principales
-<a href="https://unity.com/" style="text-decoration:none;">
-  <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/Logo1png.png" width="60" height="60" alt="Unity" style="display:block;">
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://unity.com/" style="text-decoration:none;">
-  <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/Logo2png.png" width="60" height="60" alt="Unity" style="display:block;">
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://unity.com/" style="text-decoration:none;">
-  <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/Logo3png.png" width="60" height="60" alt="Unity" style="display:block;">
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://unity.com/" style="text-decoration:none;">
-  <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/Logo4png.png" width="60" height="60" alt="Unity" style="display:block;">
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://unity.com/" style="text-decoration:none;">
-  <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/Logo5png.png" width="60" height="60" alt="Unity" style="display:block;">
-</a>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/Logo1png.png" width="60">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/Logo2png.png" width="60">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/Logo3png.png" width="60">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/Logo4png.png" width="60">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/Logo5png.png" width="60">
+</p>
 ### 👨‍💻 Programming Languages
 
 <p>
