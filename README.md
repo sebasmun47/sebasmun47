@@ -42,7 +42,7 @@
 </table>
 <h6 align="left" </h6>
   <b>&nbsp;&nbsp;...Pero puedo desempeñarme en cualquier Rol que se me asigne los proyectos que trabaje,</b><br>
-  &nbsp;gracias a mis años estudiante y formación he adquirido experiencia perfeccionando mis habilidades en herramientas digitales, &nbsp;&nbsp;optimizando mi eficiencia laboral.
+  &nbsp;gracias a mis años estudiante y formación he adquirido experiencia perfeccionando mis habilidades en herramientas digitales, &nbsp;optimizando mi eficiencia laboral.
 Gracias a esto puedo desempeñarme tambien sin problema en cualquier otro rol, por ejemplo ya eh trabajado previamente en:
 <h6>-Game Designer</h6>
 <h6>-Programmer(C#)</h6>
@@ -85,7 +85,7 @@ I-am-vishalmaurya@github
 <hr>
 
 
-## 🛠️ My Favorite Tools
+## 🛠️ Mis Herramientas De trabajo Principales
 
 ### 👨‍💻 Programming Languages
 
