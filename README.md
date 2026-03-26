@@ -170,6 +170,21 @@ I-am-vishalmaurya@github
   
 </p>
 
+### 🧰 Contacto 
+<h2 align="center">Mis Redes</h2>
+
+
+<p align="left">
+  <a href="mailto:munozsebastianx@gmail.com">
+    <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/LogoCorreopng.png" width="60">
+  </a>
+
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.artstation.com/TU_USUARIO">
+    <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/LogoArtStationpng.png" width="60">
+  </a>
+</p>
 
 <h2 align="center"></h2>
 Last Edited On: 26/03/2026
