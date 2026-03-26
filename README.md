@@ -48,7 +48,7 @@ Me considero afortunado de dedicarme a la creación de &nbsp;&nbsp;videojuegos, 
 </p>
 
 <h6 align="left" </h6>
-<b>&nbsp;Sin embargo, puedo desempeñarme sin inconvenientes en cualquier rol que se me asigne, según las necesidades de los proyectos en &nbsp;los que he trabajado,</b><br>
+<b>&nbsp;Sin embargo, puedo desempeñarme sin inconvenientes en cualquier rol que se me asigne, según las necesidades de los proyectos en &nbsp;los cuales vaya a trabajar en el futuro,</b><br>
   &nbsp;gracias a mis años estudiante y formación he adquirido experiencia perfeccionando mis habilidades en herramientas digitales, &nbsp;optimizando mi eficiencia laboral.
 Gracias a esto puedo desempeñarme tambien sin problema en cualquier otro rol, por ejemplo ya eh &nbsp;trabajado previamente en:
 <h6>-Game Designer</h6>
