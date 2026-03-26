@@ -2,15 +2,12 @@
   <tr>
     <td align="center">
       <h1>Portafolio Sebastián Muñoz Aravena</h1>
-      <p style="font-size: 12px;">Game Developer Generalista</p>
+      <p>Game Developer Generalista</p>
     </td>
   </tr>
 </table>
 
-<img align="left" src="https://github.com/sebasmun47/sebasmun47/blob/main/kurochan.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
-<hr>
-
-
+<img align="left" src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/kurochan.png" width="320" />
 <h6 align="left" </h6>
   <b>&nbsp;&nbsp;Hola Bienvenid@ a mi Portafolio,  &nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1> </b><br>
 &nbsp;&nbsp;Me llamo Sebastian Muñoz, </p>
@@ -54,10 +51,12 @@ Gracias a esto puedo desempeñarme tambien sin problema en cualquier otro rol, p
 <h6>-Animator</h6>
 <h6>-Entre otros,...</h6>
 
-  
-
-  
+    
 </p>
+
+<h2 align="center"></h2>
+<h2 align="center">Acerca de Mi</h2>
+<b>&nbsp;&nbsp;Hola Bienvenid@ a mi Portafolio,  &nbsp;<img 
 
 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
