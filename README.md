@@ -86,6 +86,13 @@ I-am-vishalmaurya@github
 
 
 ## 🛠️ Mis Herramientas De trabajo Principales
+<a href="https://unity.com/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/UnityLogo2022.png" width="60" height="60" alt="Unity">
+</a>
+
+<a href="https://www.adobe.com/products/photoshop.html">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" width="60" height="60" alt="Photoshop">
+</a>
 
 ### 👨‍💻 Programming Languages
 
