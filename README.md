@@ -190,6 +190,17 @@ adaptándome a las necesidades de cada proyecto.
   </tr>
 </table>
 
+<table align="left">
+  <tr>
+    <td align="center">
+      <a href="https://drive.google.com/drive/folders/14ZjrWb4VKIurCs9YLhg0tkQVGw5VzJo8?usp=sharing">
+        <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/LogoDrivepng.png" width="60"><br/>
+        Ver Recursos
+      </a>
+    </td>
+  </tr>
+</table>
+
 <br clear="all"/>
 
 <!--Seccion de Links-->
