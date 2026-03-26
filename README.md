@@ -172,26 +172,40 @@ I-am-vishalmaurya@github
 
 <!--Seccion de Links-->
 ### CONTACTO
+
 <h2 align="center">Mis Redes</h2>
 
-<table align="left">
+<table>
+  <!-- TITULOS -->
+  <tr>
+    <td align="center"><b>Correo</b></td>
+    <td align="center"><b>ArtStation</b></td>
+  </tr>
+
+  <!-- ICONOS -->
   <tr>
     <td align="center">
       <a href="mailto:munozsebastianx@gmail.com">
-        <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/LogoCorreopng.png" width="60"><br/>
-        munozsebastianx@gmail.com
+        <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/LogoCorreopng.png" width="60">
       </a>
     </td>
     <td align="center">
-      <a href="https://www.artstation.com/TU_USUARIO">
-        <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/LogoArtStationpng.png" width="60"><br/>
-        ArtStation
+      <a href="https://www.artstation.com/sebashhx_mun99">
+        <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/LogoArtStationpng.png" width="60">
       </a>
+    </td>
+  </tr>
+
+  <!-- TEXTOS -->
+  <tr>
+    <td align="center">munozsebastianx@gmail.com</td>
+    <td align="center">
+      <a href="https://www.artstation.com/sebashhx_mun99">https://www.artstation.com/sebashhx_mun99/profile</a>
     </td>
   </tr>
 </table>
 
-<br clear="all"/>
+
 
 <h2 align="center"></h2>
 Last Edited On: 26/03/2026
