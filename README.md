@@ -226,6 +226,18 @@ adaptándome a las necesidades de cada proyecto.
   </tr>
 </table>
 
+ <tr>
+    <td align="center">munozsebastianx@gmail.com</td>
+    <td align="center">
+      <a href="mailto:munozsebastianx@gmail.com">https://www.artstation.com/sebashhx_mun99/profile</a>
+    </td>
+  </tr>
+</table>
+
+<a href="mailto:munozsebastianx@gmail.com?subject=Contacto%20desde%20portafolio">
+  Enviar correo
+</a>
+
 
 
 <h2 align="center"></h2>
