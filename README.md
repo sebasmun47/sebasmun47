@@ -76,8 +76,9 @@ Gracias a esto puedo desempeñarme tambien sin problema en cualquier otro rol, p
 
 <hr><!--separar contenido-->
 <p align="center">
-  "Jack of all trades", un poco de todo 
+  "Jack of all trades", sé un poco de todo
 </p>
+
 <h2 align="center"></h2>
 
 ```
