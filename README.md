@@ -45,9 +45,9 @@ Y Mis roles principales donde me gustaria desempeñarme son:
   </tr>
 </table>
 <p align="left">
-<img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/collageDibujos2.jpg" width="47%">
+<img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/ComingSoon.png" width="47%">
 &nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/collageDibujos2.jpg" width="47%">
+<img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/ComingSoon.png" width="47%">
 </p>
 
 <h6 align="left" </h6>
@@ -134,7 +134,7 @@ adaptándome a las necesidades de cada proyecto.
     <td align="center">
       <b>Modelos 3D</b>
       <br><br>
-      <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/collageDibujos2.jpg" width="100%">
+      <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/ComingSoon.png" width="100%">
     </td>
   </tr>
   <tr>
