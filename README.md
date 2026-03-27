@@ -234,7 +234,7 @@ Mis Redes
 
 
 
-
+<h2 align="center">Gracias Por Visitar mi Portafolio, contactame a mi correo sobre cualquier duda </h2>
 
 
 <h2 align="center"></h2>
