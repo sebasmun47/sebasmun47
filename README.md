@@ -82,8 +82,8 @@ Gracias a esto puedo desempeñarme tambien sin problema en cualquier otro rol, p
 <h2 align="center"></h2>
 
 ```
-https://github.com/sebasmun47
--------------------------
+Game Developer Generalista   https://github.com/sebasmun47 
+-----------------------------------------------------------
 🔧 Hola, soy Sebastián Muñoz, desarrollador 
 de videojuegos generalista.
  Me considero afortunado de dedicarme a la
