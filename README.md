@@ -14,7 +14,7 @@
 <!--siguiente Parrafo-->
 <h6 align="left" </h6>
 <b>&nbsp;&nbsp; Y soy Estudiante de Ultimo año de Ingeniería en Realidad Virtual y Diseño de &nbsp;&nbsp;Juegos Digitales,
-vengo aprendiendo a la creacion de videojuegos hace mas o menos 5 años, Me considero una persona apasionada por la creación de videojuegos, área en la que he podido desarrollar tanto mis habilidades técnicas como creativas.
+vengo aprendiendo a la creacion de videojuegos hace mas o menos 5 años, Me considero una persona apasionada por la creación de assets y elementos graficos de videojuegos, área en la que he podido desarrollar tanto mis habilidades técnicas como creativas.
 
 Me siento afortunado de poder formarme en una disciplina que no solo me motiva constantemente, sino que también disfruto profundamente, impulsándome a seguir aprendiendo y mejorando en cada proyecto que realizo.</b><br>   <h6 align="left" </h6>
 <b></b><br>
