@@ -164,10 +164,10 @@ adaptándome a las necesidades de cada proyecto.
   </tr>
   <tr>
     <td align="center">
-      <a href="https://drive.google.com/drive/folders/1MFZSjcCtyKS5SeiHrtBfaf4uD07zYM2f?usp=drive_link">[ Click para Ver más Proyectos ]</a>
+      <a href="https://drive.google.com/drive/folders/1MFZSjcCtyKS5SeiHrtBfaf4uD07zYM2f?usp=drive_link">[ Click para Ver más Proyectos de Unity]</a>
     </td>
     <td align="center">
-      <a href="TU_LINK_DE_DRIVE_2">Ver proyecto</a>
+      <a href="TU_LINK_DE_DRIVE_2">[ Click para Ver más Proyectos de Unreal ]</a>
     </td>
   </tr>
 </table>
