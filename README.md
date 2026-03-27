@@ -127,12 +127,12 @@ adaptándome a las necesidades de cada proyecto.
 <table>
   <tr>
     <td align="center">
-      <b>Concept art/Dibujos</b><br>
+      <b>Concept art/Dibujos</b>
       <br><br>
       <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/collageDibujos2.jpg" width="100%">
     </td>
     <td align="center">
-      <b>Modelos 3D</b><br>
+      <b>Modelos 3D</b>
       <br><br>
       <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/collageDibujos2.jpg" width="100%">
     </td>
@@ -156,11 +156,13 @@ adaptándome a las necesidades de cada proyecto.
 <table>
   <tr>
     <td align="center">
-      <b>Unity</b><br>
+      <b>Unity</b>
+      <br><br>
       <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/collageDibujos2.jpg" width="100%">
     </td>
     <td align="center">
-      <b>Unreal Engine</b><br>
+      <b>Unreal Engine</b>
+      <br><br>
       <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/collageDibujos2.jpg" width="100%">
     </td>
   </tr>
