@@ -78,7 +78,7 @@ Gracias a esto puedo desempeñarme tambien sin problema en cualquier otro rol, p
 <img align="left" src="https://github.com/sebasmun47/sebasmun47/blob/main/seiyapng.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="230" />
 
 <hr><!--separar contenido-->
-<h2 align="center"></h2>
+<h2 align="center">dsdsd</h2>
 
 ```
 https://github.com/sebasmun47
