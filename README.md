@@ -128,10 +128,12 @@ adaptándome a las necesidades de cada proyecto.
   <tr>
     <td align="center">
       <b>Concept art/Dibujos</b><br>
+      <br><br>
       <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/collageDibujos2.jpg" width="100%">
     </td>
     <td align="center">
       <b>Modelos 3D</b><br>
+      <br><br>
       <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/collageDibujos2.jpg" width="100%">
     </td>
   </tr>
