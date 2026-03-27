@@ -3,7 +3,7 @@
     <td align="center">
       <h1>Portafolio Sebastián Muñoz Aravena</h1>
       <p>Game Developer Generalista</p>
-    </td>
+      </td>
   </tr>
 </table>
 
@@ -14,7 +14,7 @@
 <!--siguiente Parrafo-->
 <h6 align="left" </h6>
 <b>Y soy Estudiante de Ultimo año de Ingeniería en Realidad Virtual y Diseño de Juegos Digitales,
-vengo aprendiendo a la creacion de videojuegos hace mas o menos 5 años, Me considero una persona apasionada por la creación de assets y elementos graficos personalizados de videojuegos, área en la que he podido desarrollar tanto mis habilidades técnicas como creativas.
+vengo aprendiendo a la creacion de videojuegos hace mas o menos 5 años, Me considero una persona versatil y pasionada por la creación de assets y elementos graficos personalizados de videojuegos, área en la que he podido desarrollar tanto mis habilidades técnicas como creativas.
 
 Me siento afortunado de poder formarme en una disciplina que no solo me motiva constantemente, sino que también disfruto profundamente, impulsándome a seguir aprendiendo y mejorando en cada proyecto que realizo.
 
@@ -54,36 +54,36 @@ Y Mis roles principales donde me gustaria desempeñarme son:
 <b>&nbsp;Sin embargo, puedo desempeñarme sin inconvenientes en cualquier rol que se me asigne, según las necesidades de los proyectos en &nbsp;los cuales vaya a trabajar en el futuro,</b><br>
   &nbsp;gracias a mis años estudiante y formación he adquirido experiencia perfeccionando mis habilidades en herramientas digitales, &nbsp;optimizando mi eficiencia laboral.
 Gracias a esto puedo desempeñarme tambien sin problema en cualquier otro rol, por ejemplo ya eh &nbsp;trabajado previamente en:
-<h6>-Game Designer</h6>
-<h6>-Programmer(C#)</h6>
-<h6>-QA(Quality Assurance)</h6>
-<h6>-Animator</h6>
-<h6>-Entre otros,...</h6>
+  
+-UX y UI Designer
+-Game Designer
+-Programmer(C#)
+-QA(Quality Assurance
+-Animator
+-Entre otros,...
 
     
 </p>
 
-<h2 align="center"></h2>
+
 <h2 align="center">Acerca de Mi</h2>
-
-
-
   
  <!---->
  
-
 <!-- -->
-
 
 <img align="left" src="https://github.com/sebasmun47/sebasmun47/blob/main/seiyapng.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="230" />
 
 <hr><!--separar contenido-->
+<p align="center">
+  "Jack of all trades", un poco de todo 
+</p>
 <h2 align="center"></h2>
 
 ```
 https://github.com/sebasmun47
 -------------------------
-💻 Hola, soy Sebastián Muñoz, desarrollador 
+🔧 Hola, soy Sebastián Muñoz, desarrollador 
 de videojuegos generalista.
  Me considero afortunado de dedicarme a la
 creación de videojuegos, una disciplina que
