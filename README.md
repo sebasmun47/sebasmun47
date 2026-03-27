@@ -133,11 +133,10 @@ adaptándome a las necesidades de cada proyecto.
   </tr>
   <tr>
     <td align="center">
-      <a href="https://drive.google.com/drive/folders/1jbAEnezsB7GAg-JUMms_1t1KsA2IEErR?usp=drive_link">Ver proyecto</a>
-      <a href="https://drive.google.com/drive/folders/14ZjrWb4VKIurCs9YLhg0tkQVGw5VzJo8?usp=sharing">
-    </td>
+      <a href="https://drive.google.com/drive/folders/1jbAEnezsB7GAg-JUMms_1t1KsA2IEErR?usp=drive_link">[ Click para Ver más Dibujos ]</a>
+      </td>
     <td align="center">
-      <a href="TU_LINK_DE_DRIVE_2">Ver proyecto</a>
+      <a href="TU_LINK_DE_DRIVE_2">[ Click para ver más Modelos 3D ]</a>
     </td>
   </tr>
 </table>
