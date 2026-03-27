@@ -116,7 +116,7 @@ adaptándome a las necesidades de cada proyecto.
 <br><br>
 
 <!--Seccion de Links-->
-<h2 align="center">🛠️ Arte</h2>
+<h2 align="center">🛠️ ARTE</h2>
 
 ### Algunos de mis trabajos   
 
@@ -143,7 +143,7 @@ adaptándome a las necesidades de cada proyecto.
 
 <br><br>
 
-<h2 align="center">🛠️ Proyectos</h2>
+<h2 align="center">🛠️ PROYECTOS</h2>
 
 ### Algunos de mis Proyectos  
 
@@ -168,15 +168,13 @@ adaptándome a las necesidades de cada proyecto.
   </tr>
 </table>
 
-
-
-
+<br><br><!--Espacio entre secciones-->
 
 <!--Seccion de Links-->
-### Recursos que eh desarrolado 
-<h2 align="center">Enlace Directo al Drive con los Recursos</h2>
 
-
+<h2 align="center">ENLACE A DRIVE</h2>
+Recursos que eh desarrolado 
+<br><br>
 <!--Link del Drive-->
 <table align="left">
   <tr>
@@ -192,10 +190,9 @@ adaptándome a las necesidades de cada proyecto.
 <br clear="all"/>
 
 <!--Seccion de Links-->
-### CONTACTO
 
-<h2 align="center">Mis Redes</h2>
-
+<h2 align="center">CONTACTO</h2>
+Mis Redes
 <table>
   <!-- TITULOS -->
   <tr>
