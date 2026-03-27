@@ -7,22 +7,23 @@
   </tr>
 </table>
 
-<img align="left" src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/kurochan.png" width="320" />
+<img align="left" src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/kurochan.png" width="300" />
 <h6 align="left" </h6>
-  <b>&nbsp;&nbsp;Hola Bienvenid@ a mi Portafolio,  &nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1> </b><br>
+  <b>&nbsp;&nbsp;Hola Bienvenid@ a mi Portafolio,  &nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1> 
 &nbsp;&nbsp;Me llamo Sebastian Muñoz, </p>
 <!--siguiente Parrafo-->
 <h6 align="left" </h6>
 <b>Y soy Estudiante de Ultimo año de Ingeniería en Realidad Virtual y Diseño de Juegos Digitales,
 vengo aprendiendo a la creacion de videojuegos hace mas o menos 5 años, Me considero una persona apasionada por la creación de assets y elementos graficos personalizados de videojuegos, área en la que he podido desarrollar tanto mis habilidades técnicas como creativas.
 
-Me siento afortunado de poder formarme en una disciplina que no solo me motiva constantemente, sino que también disfruto profundamente, impulsándome a seguir aprendiendo y mejorando en cada proyecto que realizo.</b><br>   <h6 align="left" </h6>
+Me siento afortunado de poder formarme en una disciplina que no solo me motiva constantemente, sino que también disfruto profundamente, impulsándome a seguir aprendiendo y mejorando en cada proyecto que realizo.
+
 <b></b><br>
 <b></b><br>
-<b></b><br>
-<b>&nbsp;&nbsp;Tengo un perfil de Game Designer Generalista,</b><br>
-&nbsp;&nbsp;Y Mis roles principales donde me gustaria desempeñarme son: 
-<br><br>
+<h2 align="center"></h2>
+
+Tengo un perfil de Game Designer Generalista
+Y Mis roles principales donde me gustaria desempeñarme son:
 
 <table>
   <tr>
