@@ -47,7 +47,7 @@ Y Mis roles principales donde me gustaria desempeñarme son:
 <p align="left">
 <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/VRProyect.png" width="47%">
 &nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/ComingSoon.png" width="47%">
+<img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/VRProyect2.png" width="47%">
 </p>
 
 <h6 align="left" </h6>
