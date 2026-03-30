@@ -150,6 +150,49 @@ adaptándome a las necesidades de cada proyecto.
 
 <br><br>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/Logo1png.png" width="60">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/Logo2png.png" width="60">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/Logo3png.png" width="60">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/Logo4png.png" width="60">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/Logo5png.png" width="60">
+</p>
+<br><br>
+
+<!--Seccion de Links-->
+<h2 align="center">🛠️ VFX Y UI/UX</h2>
+
+  
+
+<table>
+  <tr>
+    <td align="center">
+      <b>Concept art/Efecto Visual de Particula</b>
+      <br><br>
+      <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/particulaChispa.gif" width="100%">
+    </td>
+    <td align="center">
+      <b>Interfaz de Usuario y Experiencia del Interfaz de Usuario</b>
+      <br><br>
+      <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/ComingSoon.png" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://drive.google.com/drive/folders/1jbAEnezsB7GAg-JUMms_1t1KsA2IEErR?usp=drive_link">[ Click para Ver más Dibujos ]</a>
+      </td>
+    <td align="center">
+      <a href="https://drive.google.com/drive/folders/19mcaBgnYJKYgJCNz2b2f6pq9sIF7gvQg?usp=drive_link">[ Click para ver más Modelos 3D ]</a>
+    </td>
+  </tr>
+</table>
+
+<br><br>
+
 <h2 align="center">🛠️ PROYECTOS</h2>
 
 ### Algunos de mis Proyectos  
@@ -240,4 +283,4 @@ Mis Redes
 
 <h2 align="center"></h2>
 Portafolio en Desarrollo
-Last Edited On: 26/03/2026
+Last Edited On: 30/03/2026
