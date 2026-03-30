@@ -194,7 +194,7 @@ adaptándome a las necesidades de cada proyecto.
     <td align="center">
       <b>Unity</b>
       <br><br>
-      <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/SSUnity2.png" width="100%">
+      <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/SSUnity1.png.png" width="100%">
     </td>
     <td align="center">
       <b>Unreal Engine</b>
