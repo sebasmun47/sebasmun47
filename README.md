@@ -150,21 +150,13 @@ adaptándome a las necesidades de cada proyecto.
 
 <br><br>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/Logo1png.png" width="60">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/Logo2png.png" width="60">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/Logo3png.png" width="60">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/Logo4png.png" width="60">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/Logo5png.png" width="60">
-</p>
+
 <br><br>
 
 <!--Seccion de Links-->
 <h2 align="center">🛠️ VFX Y UI/UX</h2>
+
+### Algunos de mis efecto Visuales 
 
   
 
