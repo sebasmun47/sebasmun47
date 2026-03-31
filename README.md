@@ -117,6 +117,8 @@ adaptándome a las necesidades de cada proyecto.
   <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/Logo4png.png" width="60">
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/Logo5png.png" width="60">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/Logo6png.png" width="60">
 </p>
 <br><br>
 
