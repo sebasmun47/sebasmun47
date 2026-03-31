@@ -170,9 +170,9 @@ adaptándome a las necesidades de cada proyecto.
       <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/particulaChispa.gif" width="100%">
     </td>
     <td align="center">
-      <b>Interfaz de Usuario y Experiencia del Interfaz de Usuario</b>
+      <b>UI & UX</b>
       <br><br>
-      <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/ComingSoon.png" width="100%">
+      <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/PhotonProject.png" width="100%">
     </td>
   </tr>
   <tr>
