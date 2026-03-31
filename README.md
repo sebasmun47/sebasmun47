@@ -271,9 +271,9 @@ Mis Redes
 
 
 
-
-<h2 align="center">Gracias Por Visitar mi Portafolio, contactame a mi correo sobre cualquier duda </h2>
 <img align="center" src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/MorganaLogoC.png" width="100" />
+<h2 align="center">Gracias Por Visitar mi Portafolio, contactame a mi correo sobre cualquier duda </h2>
+
 
 
 <h2 align="center"></h2>
