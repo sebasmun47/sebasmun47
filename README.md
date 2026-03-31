@@ -219,7 +219,7 @@ adaptándome a las necesidades de cada proyecto.
 <!--Seccion de Links-->
 
 <h2 align="center">ENLACE A DRIVE</h2>
-Recursos que eh desarrolado 
+Recursos que eh desarrollado 
 <br><br>
 <!--Link del Drive-->
 <table align="left">
