@@ -137,7 +137,7 @@ adaptándome a las necesidades de cada proyecto.
     <td align="center">
       <b>Modelos 3D</b>
       <br><br>
-      <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/ComingSoon.png" width="100%">
+      <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/PilarProp.png" width="100%">
     </td>
   </tr>
   <tr>
