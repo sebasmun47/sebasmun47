@@ -303,4 +303,5 @@ Mis Redes
 
 <h2 align="center"></h2>
 Portafolio Desarrollado por mi mismo en constante actualización
+<br><br><!--Espacio entre secciones-->
 Last Edited On: 31/03/2026
