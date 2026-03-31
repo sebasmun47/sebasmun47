@@ -229,10 +229,10 @@ adaptándome a las necesidades de cada proyecto.
   </tr>
   <tr>
     <td align="center">
-      <a href="https://drive.google.com/drive/folders/1MFZSjcCtyKS5SeiHrtBfaf4uD07zYM2f?usp=drive_link">[ ]</a>
+      <a href="https://drive.google.com/drive/folders/1MFZSjcCtyKS5SeiHrtBfaf4uD07zYM2f?usp=drive_link"></a>
     </td>
     <td align="center">
-      <a href="https://drive.google.com/drive/folders/1ExgaBHNeFHbVlnd1lozA0OBhCHp0j4nG?usp=drive_link">[  ]</a>
+      <a href="https://drive.google.com/drive/folders/1ExgaBHNeFHbVlnd1lozA0OBhCHp0j4nG?usp=drive_link"></a>
     </td>
   </tr>
 </table>
@@ -302,5 +302,5 @@ Mis Redes
 <h2 align="center">Gracias Por Visitar mi Portafolio, contactame a mi correo sobre cualquier duda </h2>
 
 <h2 align="center"></h2>
-Portafolio en Desarrollo
+Portafolio Desarrollado por mi mismo en constante actualización
 Last Edited On: 31/03/2026
