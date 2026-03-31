@@ -271,10 +271,11 @@ Mis Redes
 
 
 
-<img align="center" src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/MorganaLogoC.png" width="100" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/MorganaLogoC.png" width="100" />
+</p>
+
 <h2 align="center">Gracias Por Visitar mi Portafolio, contactame a mi correo sobre cualquier duda </h2>
-
-
 
 <h2 align="center"></h2>
 Portafolio en Desarrollo
