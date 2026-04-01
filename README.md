@@ -177,10 +177,10 @@ adaptándome a las necesidades de cada proyecto.
   </tr>
   <tr>
     <td align="center">
-      <a href="https://drive.google.com/drive/folders/1jbAEnezsB7GAg-JUMms_1t1KsA2IEErR?usp=drive_link">[ Click para Ver más Dibujos ]</a>
+      <a href="https://drive.google.com/drive/folders/1jbAEnezsB7GAg-JUMms_1t1KsA2IEErR?usp=drive_link"></a>
       </td>
     <td align="center">
-      <a href="https://drive.google.com/drive/folders/19mcaBgnYJKYgJCNz2b2f6pq9sIF7gvQg?usp=drive_link">[ Click para ver más Modelos 3D ]</a>
+      <a href="https://drive.google.com/drive/folders/19mcaBgnYJKYgJCNz2b2f6pq9sIF7gvQg?usp=drive_link"></a>
     </td>
   </tr>
 </table>
