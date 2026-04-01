@@ -308,6 +308,6 @@ Last Edited On: 31/03/2026
 
 <p align="center">
   <a href="https://drive.google.com/drive/folders/1jbAEnezsB7GAg-JUMms_1t1KsA2IEErR?usp=drive_link">
-    <img src="https://raw.githubusercontent.com/SEBAS_USUARIO/REPO/main/tu_imagen.png" width="200">
+    <img src="https://raw.githubusercontent.com/sebasmun47/mi-repo/main/img/boton.png" width="200">
   </a>
 </p>
