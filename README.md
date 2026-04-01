@@ -313,7 +313,7 @@ Last Edited On: 31/03/2026
   <tr>
     <td align="center">
       <a href="#">
-        <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/LogoDrivepng.png" width="60"><br/>
+        <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/kurochanflechita.png" width="200"><br/>
         Volver arriba
       </a>
     </td>
