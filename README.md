@@ -222,7 +222,7 @@ adaptándome a las necesidades de cada proyecto.
       <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/2DProject.png" width="100%">
     </td>
     <td align="center">
-      <b>Unreal Engine</b>
+      <b>Unity</b>
       <br><br>
      <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/3DAndroidApkProject.png" width="100%">
     </td>
