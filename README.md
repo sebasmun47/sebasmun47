@@ -177,10 +177,10 @@ adaptándome a las necesidades de cada proyecto.
   </tr>
   <tr>
     <td align="center">
-      <a href="https://drive.google.com/drive/folders/1jbAEnezsB7GAg-JUMms_1t1KsA2IEErR?usp=drive_link">[ Click para ver más Efectos Visuales ]</a>
+      <a href="https://drive.google.com/drive/folders/1hDHlX9PnvTaYdmGoZX-MGCfrbxh0niUH?usp=drive_link">[ Click para ver más Efectos Visuales ]</a>
       </td>
     <td align="center">
-      <a href="https://drive.google.com/drive/folders/19mcaBgnYJKYgJCNz2b2f6pq9sIF7gvQg?usp=drive_link">[ Click para ver más sprites 2D para UI/UX ]</a>
+      <a href="https://drive.google.com/drive/folders/1j0s2djMpKs8trnqYDbpPb-0OqchHNVt5?usp=drive_link">[ Click para ver más sprites 2D para UI/UX ]</a>
     </td>
   </tr>
 </table>
