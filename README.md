@@ -294,30 +294,29 @@ Mis Redes
 </table>
 
 
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/MorganaLogoC.png" width="100" />
 </p>
 
 <h2 align="center">Gracias Por Visitar mi Portafolio, contactame a mi correo sobre cualquier duda </h2>
-
-<h2 align="center"></h2>
-Portafolio Desarrollado por mi mismo en constante actualización
-<br><br><!--Espacio entre secciones-->
-Last Edited On: 31/03/2026
-
 <br><br>
-
 <!--Boton Volver-->
 <table align="center">
   <tr>
     <td align="center">
       <a href="#">
         <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/kurochanflechita.png" width="200"><br/>
-        Volver arriba
+        Volver al Inicio
       </a>
     </td>
   </tr>
 </table>
+
+<br><br>
+
+<h2 align="center"></h2>
+Portafolio Desarrollado por mi mismo en constante actualización
+<br><br><!--Espacio entre secciones-->
+Last Edited On: 31/03/2026
 
 
