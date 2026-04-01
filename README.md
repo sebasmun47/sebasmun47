@@ -158,14 +158,14 @@ adaptándome a las necesidades de cada proyecto.
 <!--Seccion de Links-->
 <h2 align="center">🛠️ VFX Y UI/UX</h2>
 
-### Algunos de mis efecto Visuales 
+### Algunos de elementos Visuales que eh desarrollado por mi cuenta 
 
   
 
 <table>
   <tr>
     <td align="center">
-      <b>Concept art/Efecto Visual de Particula</b>
+      <b>Efecto Visual: Particula de Chispa</b>
       <br><br>
       <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/particulaChispa.gif" width="100%">
     </td>
