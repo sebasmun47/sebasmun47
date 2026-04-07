@@ -329,7 +329,7 @@ Enlaces Directos a mi Drive Personal
 <table align="left">
   <tr>
     <td align="center">
-      <a href="https://drive.google.com/file/d/14il6lrWYbeISzTdOYJD3mM7TyZr6JZrE/view?usp=drive_link">
+      <a href="https://docs.google.com/document/d/17AUHF5A3UlvXGM1EAIwKwJgDU1eYiRul/edit?usp=drive_link&ouid=100313956477176907688&rtpof=true&sd=true">
         <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/LogoCarta.png" width="60"><br/>
         Link de la Carta de Presentación
       </a>
