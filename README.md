@@ -205,51 +205,64 @@ adaptándome a las necesidades de cada proyecto.
 
 ### Algunos de mis Proyectos  
 
-<table>
-  <tr>
-    <td align="center">
-      <b>Unity</b>
-      <br><br>
-      <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/SSUnity1.png.png" width="100%">
+<table border="0" cellpadding="10" cellspacing="0" style="width:100%; border-collapse: collapse;">
+  <tr style="height:620px;">
+    <td width="50%" align="center" valign="top">
+      <b>Unity</b><br>
+      <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/SSUnity1.png.png" 
+           width="580" height="560" style="border-radius: 8px; margin: 5px 0;">
+      <div style="min-height:50px; line-height:1.3; padding:0 5px; margin:0;">
+        Proyectos desarrollados en Unity Engine
+      </div>
     </td>
-    <td align="center">
-      <b>Unreal Engine</b>
-      <br><br>
-     <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/UnrealProject3D.png" width="100%">
+    <td width="50%" align="center" valign="top">
+      <b>Unreal Engine</b><br>
+      <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/UnrealProject3D.png" 
+           width="580" height="560" style="border-radius: 8px; margin: 5px 0;">
+      <div style="min-height:50px; line-height:1.3; padding:0 5px; margin:0;">
+        Proyectos desarrollados en Unreal Engine 5
+      </div>
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <a href="https://drive.google.com/drive/folders/1MFZSjcCtyKS5SeiHrtBfaf4uD07zYM2f?usp=drive_link">[ Click para Ver más Proyectos de Unity]</a>
+    <td align="center" style="padding: 2px 0 0 0;">
+      <a href="https://drive.google.com/drive/folders/1MFZSjcCtyKS5SeiHrtBfaf4uD07zYM2f?usp=drive_link">[ Click para Ver más Proyectos de Unity ]</a>
     </td>
-    <td align="center">
+    <td align="center" style="padding: 2px 0 0 0;">
       <a href="https://drive.google.com/drive/folders/1ExgaBHNeFHbVlnd1lozA0OBhCHp0j4nG?usp=drive_link">[ Click para Ver más Proyectos de Unreal ]</a>
     </td>
   </tr>
 </table>
 
-<table>
-  <tr>
-    <td align="center">
-      <b>Unity</b>
-      <br><br>
-      <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/2DProject.png" width="100%">
+<table border="0" cellpadding="10" cellspacing="0" style="width:100%; border-collapse: collapse;">
+  <tr style="height:620px;">
+    <td width="50%" align="center" valign="top">
+      <b>Unity 2D</b><br>
+      <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/2DProject.png" 
+           width="580" height="560" style="border-radius: 8px; margin: 5px 0;">
+      <div style="min-height:50px; line-height:1.3; padding:0 5px; margin:0;">
+        Proyectos 2D desarrollados en Unity
+      </div>
     </td>
-    <td align="center">
-      <b>Unity</b>
-      <br><br>
-     <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/3DAndroidApkProject.png" width="100%">
+    <td width="50%" align="center" valign="top">
+      <b>Unity Android</b><br>
+      <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/3DAndroidApkProject.png" 
+           width="580" height="560" style="border-radius: 8px; margin: 5px 0;">
+      <div style="min-height:50px; line-height:1.3; padding:0 5px; margin:0;">
+        Proyectos móviles 3D para Android en Unity
+      </div>
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <a href="https://drive.google.com/drive/folders/1MFZSjcCtyKS5SeiHrtBfaf4uD07zYM2f?usp=drive_link"></a>
+    <td align="center" style="padding: 2px 0 0 0;">
+      <a href="https://drive.google.com/drive/folders/1MFZSjcCtyKS5SeiHrtBfaf4uD07zYM2f?usp=drive_link">[ Click para Ver más Proyectos 2D ]</a>
     </td>
-    <td align="center">
-      <a href="https://drive.google.com/drive/folders/1ExgaBHNeFHbVlnd1lozA0OBhCHp0j4nG?usp=drive_link"></a>
+    <td align="center" style="padding: 2px 0 0 0;">
+      <a href="https://drive.google.com/drive/folders/1MFZSjcCtyKS5SeiHrtBfaf4uD07zYM2f?usp=drive_link">[ Click para Ver más Proyectos Android ]</a>
     </td>
   </tr>
 </table>
+<br><br>
 
 
 <br><br><!--Espacio entre secciones-->
@@ -331,6 +344,6 @@ Mis Redes
 <h2 align="center"></h2>
 Portafolio Desarrollado por mi mismo en constante actualización
 <br><br><!--Espacio entre secciones-->
-Last Edited On: 31/03/2026
+Last Edited On: 07/04/2026
 
 
