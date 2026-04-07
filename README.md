@@ -44,11 +44,37 @@ Y Mis roles principales donde me gustaria desempeñarme son:
     </td>
   </tr>
 </table>
-<p align="left">
-<img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/VRProyect.png" width="47%">
-&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/VRProyect2.png" width="47%">
-</p>
+
+
+
+
+<table border="0" cellpadding="10" cellspacing="0" style="width:100%; border-collapse: collapse;">
+  <tr style="height:620px;">
+    <td width="50%" align="center" valign="top">
+      <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/VRProyect.png" 
+           width="580" height="560" style="border-radius: 8px; margin: 5px 0;">
+      <div style="min-height:50px; line-height:1.3; padding:0 5px; margin:0;">
+        Prototipo de experiencia en Realidad Virtual desarrollado en Unity por mi y 2 compañeros mas donde yo me encargue de una parte del codigo, animaciones de los enemigos, y una parte del apartado visual
+      </div>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/VRProyect2.png" 
+           width="580" height="560" style="border-radius: 8px; margin: 5px 0;">
+      <div style="min-height:50px; line-height:1.3; padding:0 5px; margin:0;">
+        Segunda iteración del proyecto VR con nuevas mecánicas interactivas
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="padding: 2px 0 0 0;">
+      <a href="https://drive.google.com/drive/folders/1MFZSjcCtyKS5SeiHrtBfaf4uD07zYM2f?usp=drive_link">[ Click para Ver más Proyectos VR ]</a>
+    </td>
+    <td align="center" style="padding: 2px 0 0 0;">
+      <a href="https://drive.google.com/drive/folders/1MFZSjcCtyKS5SeiHrtBfaf4uD07zYM2f?usp=drive_link">[ Click para Ver Demo VR ]</a>
+    </td>
+  </tr>
+</table>
+<br><br>
 
 <h6 align="left" </h6>
 <b>&nbsp;Sin embargo, puedo desempeñarme sin inconvenientes en cualquier rol que se me asigne, según las necesidades de los proyectos en &nbsp;los cuales vaya a trabajar en el futuro,</b><br>
