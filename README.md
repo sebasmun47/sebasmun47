@@ -260,10 +260,10 @@ adaptándome a las necesidades de cada proyecto.
   </tr>
   <tr>
     <td align="center" style="padding: 2px 0 0 0;">
-      <a href="https://drive.google.com/drive/folders/1MFZSjcCtyKS5SeiHrtBfaf4uD07zYM2f?usp=drive_link">[ Click para Ver más Proyectos 2D ]</a>
+      <a href="https://drive.google.com/drive/folders/1MFZSjcCtyKS5SeiHrtBfaf4uD07zYM2f?usp=drive_link"><!--add de Links--></a>
     </td>
     <td align="center" style="padding: 2px 0 0 0;">
-      <a href="https://drive.google.com/drive/folders/1MFZSjcCtyKS5SeiHrtBfaf4uD07zYM2f?usp=drive_link">[ Click para Ver más Proyectos Android ]</a>
+      <a href="https://drive.google.com/drive/folders/1MFZSjcCtyKS5SeiHrtBfaf4uD07zYM2f?usp=drive_link"><!--add de Links--></a>
     </td>
   </tr>
 </table>
