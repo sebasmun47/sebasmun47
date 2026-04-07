@@ -318,7 +318,7 @@ Enlaces Directos a mi Drive Personal
 <table align="left">
   <tr>
     <td align="center">
-      <a href="https://drive.google.com/drive/folders/14ZjrWb4VKIurCs9YLhg0tkQVGw5VzJo8?usp=sharing">
+      <a href="https://drive.google.com/file/d/14il6lrWYbeISzTdOYJD3mM7TyZr6JZrE/view?usp=drive_link">
         <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/LogoCV2.png" width="60"><br/>
         Link del CV
       </a>
