@@ -167,30 +167,35 @@ adaptándome a las necesidades de cada proyecto.
 
 ### Algunos de elementos Visuales que eh desarrollado por mi cuenta 
 
-  
-
-<table>
-  <tr>
-    <td align="center">
-      <b>Efecto Visual: Particula de Chispa</b>
-      <br><br>
-      <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/particulaChispa.gif" width="100%">
+<table border="0" cellpadding="10" cellspacing="0" style="width:100%; border-collapse: collapse;">
+  <tr style="height:620px;">
+    <td width="50%" align="center" valign="top">
+      <b>Efecto Visual: Particula de Chispa</b><br>
+      <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/particulaChispa.gif" 
+           width="280" height="260" style="border-radius: 8px; margin: 5px 0;">
+      <div style="min-height:50px; line-height:1.3; padding:0 5px; margin:0;">
+        Efecto de partículas creado en Unity para simular chispas realistas
+      </div>
     </td>
-    <td align="center">
-      <b>UI & UX</b>
-      <br><br>
-      <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/PhotonProject.png" width="100%">
+    <td width="50%" align="center" valign="top">
+      <b>UI & UX</b><br>
+      <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/PhotonProject.png" 
+           width="580" height="560" style="border-radius: 8px; margin: 5px 0;">
+      <div style="min-height:50px; line-height:1.3; padding:0 5px; margin:0;">
+        Sprites 2D diseñados para interfaces de usuario en proyectos de videojuegos
+      </div>
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center" style="padding: 2px 0 0 0;">
       <a href="https://drive.google.com/drive/folders/1hDHlX9PnvTaYdmGoZX-MGCfrbxh0niUH?usp=drive_link">[ Click para ver más Efectos Visuales ]</a>
-      </td>
-    <td align="center">
+    </td>
+    <td align="center" style="padding: 2px 0 0 0;">
       <a href="https://drive.google.com/drive/folders/1j0s2djMpKs8trnqYDbpPb-0OqchHNVt5?usp=drive_link">[ Click para ver más sprites 2D para UI/UX ]</a>
     </td>
   </tr>
 </table>
+<br><br>
 
 <br><br>
 
