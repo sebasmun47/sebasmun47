@@ -175,7 +175,7 @@ adaptándome a las necesidades de cada proyecto.
       <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/particulaChispa.gif" 
            width="240" height="220" style="border-radius: 8px; margin: 5px 0;">
       <div style="min-height:50px; line-height:1.3; padding:0 5px; margin:0;">
-        Efecto de partículas creado en Unity para simular un hechizo electrico
+        Efecto de partículas creado en Shader graph de Unity por mi para simular un hechizo electrico
       </div>
     </td>
     <td width="50%" align="center" valign="top">
@@ -184,7 +184,7 @@ adaptándome a las necesidades de cada proyecto.
       <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/PhotonProject.png" 
            width="580" height="560" style="border-radius: 8px; margin: 5px 0;">
       <div style="min-height:50px; line-height:1.3; padding:0 5px; margin:0;">
-        Sprites 2D diseñados para interfaces de usuario en proyectos de videojuegos
+        Sprites 2D diseñados para interfaces de usuario en proyectos de videojuegos, este proyecto lo desarrolle junto a 2 compañeros donde yo me encargue de la programación y todo lo relacionado al diseño de la IU y UX
       </div>
     </td>
   </tr>
