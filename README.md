@@ -133,7 +133,7 @@ adaptándome a las necesidades de cada proyecto.
       <b>Concept art/Dibujos</b>
       <br><br>
       <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/demonblade.jpg" width="100%">
-      Esta Espada la diseñe en photoshop
+      Esta Espada la diseñe en photoshop jugando con paletas de colores complementarias verde/roja
     </td>
     <td align="center">
       <b>Modelos 3D</b>
