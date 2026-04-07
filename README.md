@@ -131,6 +131,7 @@ adaptándome a las necesidades de cada proyecto.
   <tr style="height:420px;">
     <td width="50%" align="center" valign="top">
       <b>Concept art/Dibujos</b><br>
+      <b></b><br>
       <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/demonblade.jpg" 
            width="580" height="560" style="border-radius: 8px; margin: 5px 0;">
       <div style="min-height:50px; line-height:1.3; padding:0 5px; margin:0;">
@@ -139,6 +140,7 @@ adaptándome a las necesidades de cada proyecto.
     </td>
     <td width="50%" align="center" valign="top">
       <b>Modelos 3D</b><br>
+      <b></b><br>
       <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/PilarProp.png" 
            width="580" height="560" style="border-radius: 8px; margin: 5px 0;">
       <div style="min-height:50px; line-height:1.3; padding:0 5px; margin:0;">
