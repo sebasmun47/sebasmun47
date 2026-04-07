@@ -173,7 +173,7 @@ adaptándome a las necesidades de cada proyecto.
       <b>Efecto Visual: Particula de Chispa</b><br>  
       <b></b><br>
       <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/particulaChispa.gif" 
-           width="280" height="260" style="border-radius: 8px; margin: 5px 0;">
+           width="240" height="220" style="border-radius: 8px; margin: 5px 0;">
       <div style="min-height:50px; line-height:1.3; padding:0 5px; margin:0;">
         Efecto de partículas creado en Unity para simular chispas realistas
       </div>
