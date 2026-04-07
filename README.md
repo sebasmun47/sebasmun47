@@ -127,31 +127,36 @@ adaptándome a las necesidades de cada proyecto.
 
 ### Algunos de mis trabajos   
 
-<table>
+<table border="0" cellpadding="15" cellspacing="0" style="width:100%; border-collapse: collapse;">
   <tr>
-    <td align="center" >
-      <b>Concept art/Dibujos</b>
-      <br><br>
-      <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/demonblade.jpg" width="100%">
-      <p>Esta Espada la diseñe en photoshop jugando con paletas de colores complementarias verde/roja</p>
+    <td width="50%" align="center" valign="top" height="480">
+      <b>Concept art/Dibujos</b><br><br>
+      <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/demonblade.jpg" 
+           width="580" height="580" style="border-radius: 10px;">
+      <br>
+      <span style="display: block; min-height: 60px; line-height: 1.3; padding: 0 10px;">
+        Esta Espada la diseñe en photoshop jugando con paletas de colores complementarias verde/roja
+      </span>
     </td>
-    <td align="center">
-      <b>Modelos 3D</b>
-      <br><br>
-      <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/PilarProp.png" width="100%">
-      <p>Este Modelo 3D son unos Assets que cree y ocupe en un proyecto de Escenario con tematica Griega</p>
+    <td width="50%" align="center" valign="top" height="480">
+      <b>Modelos 3D</b><br><br>
+      <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/PilarProp.png" 
+           width="580" height="580" style="border-radius: 10px;">
+      <br>
+      <span style="display: block; min-height: 60px; line-height: 1.3; padding: 0 10px;">
+        Este Modelo 3D son unos Assets que cree y ocupe en un proyecto de Escenario con tematica Griega
+      </span>
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center" style="padding-top: 5px;">
       <a href="https://drive.google.com/drive/folders/1jbAEnezsB7GAg-JUMms_1t1KsA2IEErR?usp=drive_link">[ Click para Ver más Dibujos ]</a>
-      </td>
-    <td align="center">
+    </td>
+    <td align="center" style="padding-top: 5px;">
       <a href="https://drive.google.com/drive/folders/19mcaBgnYJKYgJCNz2b2f6pq9sIF7gvQg?usp=drive_link">[ Click para ver más Modelos 3D ]</a>
     </td>
   </tr>
 </table>
-
 <br><br>
 
 
