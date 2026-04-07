@@ -171,6 +171,7 @@ adaptándome a las necesidades de cada proyecto.
   <tr style="height:620px;">
     <td width="50%" align="center" valign="top">
       <b>Efecto Visual: Particula de Chispa</b><br>
+      <br><br>
       <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/particulaChispa.gif" 
            width="280" height="260" style="border-radius: 8px; margin: 5px 0;">
       <div style="min-height:50px; line-height:1.3; padding:0 5px; margin:0;">
@@ -179,6 +180,7 @@ adaptándome a las necesidades de cada proyecto.
     </td>
     <td width="50%" align="center" valign="top">
       <b>UI & UX</b><br>
+      <br><br>
       <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/PhotonProject.png" 
            width="580" height="560" style="border-radius: 8px; margin: 5px 0;">
       <div style="min-height:50px; line-height:1.3; padding:0 5px; margin:0;">
