@@ -254,7 +254,7 @@ adaptándome a las necesidades de cada proyecto.
       <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/3DAndroidApkProject.png" 
            width="580" height="560" style="border-radius: 8px; margin: 5px 0;">
       <div style="min-height:50px; line-height:1.3; padding:0 5px; margin:0;">
-        Proyectos móviles 3D para Android en Unity
+        Proyecto 3D para móviles Android en Unity por mi mismo aproximadamente el 2024
       </div>
     </td>
   </tr>
