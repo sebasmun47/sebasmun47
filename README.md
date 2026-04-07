@@ -10,7 +10,7 @@
 <img align="left" src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/kurochan.png" width="300" />
 <h6 align="left" </h6>
   <b>&nbsp;&nbsp;Hola Bienvenid@ a mi Portafolio,  &nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1> 
-&nbsp;&nbsp;Me llamo Sebastian Muñoz, </p>
+&nbsp;&nbsp;Me Presento, me llamo Sebastian Muñoz, </p>
 <!--siguiente Parrafo-->
 <h6 align="left" </h6>
 <b>Y soy Estudiante de Ultimo año de Ingeniería en Realidad Virtual y Diseño de Juegos Digitales,
