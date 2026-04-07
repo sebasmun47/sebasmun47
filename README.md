@@ -127,32 +127,30 @@ adaptándome a las necesidades de cada proyecto.
 
 ### Algunos de mis trabajos   
 
-<table border="0" cellpadding="15" cellspacing="0" style="width:100%; border-collapse: collapse;">
-  <tr>
-    <td width="50%" align="center" valign="top" height="480">
-      <b>Concept art/Dibujos</b><br><br>
+<table border="0" cellpadding="10" cellspacing="0" style="width:100%; border-collapse: collapse;">
+  <tr style="height:420px;">
+    <td width="50%" align="center" valign="top">
+      <b>Concept art/Dibujos</b><br>
       <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/demonblade.jpg" 
-           width="580" height="580" style="border-radius: 10px;">
-      <br>
-      <span style="display: block; min-height: 60px; line-height: 1.3; padding: 0 10px;">
+           width="580" height="560" style="border-radius: 8px; margin: 5px 0;">
+      <div style="min-height:50px; line-height:1.3; padding:0 5px; margin:0;">
         Esta Espada la diseñe en photoshop jugando con paletas de colores complementarias verde/roja
-      </span>
+      </div>
     </td>
-    <td width="50%" align="center" valign="top" height="480">
-      <b>Modelos 3D</b><br><br>
+    <td width="50%" align="center" valign="top">
+      <b>Modelos 3D</b><br>
       <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/PilarProp.png" 
-           width="580" height="580" style="border-radius: 10px;">
-      <br>
-      <span style="display: block; min-height: 60px; line-height: 1.3; padding: 0 10px;">
+           width="580" height="560" style="border-radius: 8px; margin: 5px 0;">
+      <div style="min-height:50px; line-height:1.3; padding:0 5px; margin:0;">
         Este Modelo 3D son unos Assets que cree y ocupe en un proyecto de Escenario con tematica Griega
-      </span>
+      </div>
     </td>
   </tr>
   <tr>
-    <td align="center" style="padding-top: 5px;">
+    <td align="center" style="padding: 2px 0 0 0;">
       <a href="https://drive.google.com/drive/folders/1jbAEnezsB7GAg-JUMms_1t1KsA2IEErR?usp=drive_link">[ Click para Ver más Dibujos ]</a>
     </td>
-    <td align="center" style="padding-top: 5px;">
+    <td align="center" style="padding: 2px 0 0 0;">
       <a href="https://drive.google.com/drive/folders/19mcaBgnYJKYgJCNz2b2f6pq9sIF7gvQg?usp=drive_link">[ Click para ver más Modelos 3D ]</a>
     </td>
   </tr>
