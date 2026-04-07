@@ -245,7 +245,7 @@ adaptándome a las necesidades de cada proyecto.
       <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/2DProject.png" 
            width="580" height="560" style="border-radius: 8px; margin: 5px 0;">
       <div style="min-height:50px; line-height:1.3; padding:0 5px; margin:0;">
-        Proyectos 2D desarrollados en Unity
+        Proyecto 2D Plataformero desarrollado unicamente por mi en Unity en primer año 
       </div>
     </td>
     <td width="50%" align="center" valign="top">
@@ -260,7 +260,7 @@ adaptándome a las necesidades de cada proyecto.
   </tr>
   <tr>
     <td align="center" style="padding: 2px 0 0 0;">
-      <a href="https://drive.google.com/drive/folders/1MFZSjcCtyKS5SeiHrtBfaf4uD07zYM2f?usp=drive_link"><!--add de Links--></a>
+      <a href="https://drive.google.com/drive/folders/1MFZSjcCtyKS5SeiHrtBfaf4uD07zYM2f?usp=drive_link"><!--add de Links coming soon--></a>
     </td>
     <td align="center" style="padding: 2px 0 0 0;">
       <a href="https://drive.google.com/drive/folders/1MFZSjcCtyKS5SeiHrtBfaf4uD07zYM2f?usp=drive_link"><!--add de Links--></a>
