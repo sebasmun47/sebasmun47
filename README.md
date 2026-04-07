@@ -301,7 +301,7 @@ adaptándome a las necesidades de cada proyecto.
 <!--Seccion de Links-->
 
 <h2 align="center">ENLACE A DRIVE</h2>
-Recursos que eh desarrollado 
+Recursos que he creado y desarrollado
 <br><br>
 <!--Link del Drive-->
 <table align="left">
@@ -309,7 +309,7 @@ Recursos que eh desarrollado
     <td align="center">
       <a href="https://drive.google.com/drive/folders/14ZjrWb4VKIurCs9YLhg0tkQVGw5VzJo8?usp=sharing">
         <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/LogoDrivepng.png" width="60"><br/>
-        Link de los Recursos
+        Link de todos los Recursos
       </a>
     </td>
   </tr>
