@@ -175,7 +175,7 @@ adaptándome a las necesidades de cada proyecto.
       <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/particulaChispa.gif" 
            width="240" height="220" style="border-radius: 8px; margin: 5px 0;">
       <div style="min-height:50px; line-height:1.3; padding:0 5px; margin:0;">
-        Efecto de partículas creado en Unity para simular chispas realistas
+        Efecto de partículas creado en Unity para simular un hechizo electrico
       </div>
     </td>
     <td width="50%" align="center" valign="top">
