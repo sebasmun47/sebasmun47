@@ -209,6 +209,7 @@ adaptándome a las necesidades de cada proyecto.
   <tr style="height:620px;">
     <td width="50%" align="center" valign="top">
       <b>Unity</b><br>
+      <b></b><br>
       <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/SSUnity1.png.png" 
            width="580" height="560" style="border-radius: 8px; margin: 5px 0;">
       <div style="min-height:50px; line-height:1.3; padding:0 5px; margin:0;">
@@ -217,10 +218,12 @@ adaptándome a las necesidades de cada proyecto.
     </td>
     <td width="50%" align="center" valign="top">
       <b>Unreal Engine</b><br>
+      <b></b><br>
       <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/UnrealProject3D.png" 
            width="580" height="560" style="border-radius: 8px; margin: 5px 0;">
       <div style="min-height:50px; line-height:1.3; padding:0 5px; margin:0;">
         Proyectos desarrollados en Unreal Engine 5
+        <b></b><br>
       </div>
     </td>
   </tr>
@@ -238,6 +241,7 @@ adaptándome a las necesidades de cada proyecto.
   <tr style="height:620px;">
     <td width="50%" align="center" valign="top">
       <b>Unity 2D</b><br>
+      <b></b><br>
       <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/2DProject.png" 
            width="580" height="560" style="border-radius: 8px; margin: 5px 0;">
       <div style="min-height:50px; line-height:1.3; padding:0 5px; margin:0;">
@@ -246,6 +250,7 @@ adaptándome a las necesidades de cada proyecto.
     </td>
     <td width="50%" align="center" valign="top">
       <b>Unity Android</b><br>
+      <b></b><br>
       <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/3DAndroidApkProject.png" 
            width="580" height="560" style="border-radius: 8px; margin: 5px 0;">
       <div style="min-height:50px; line-height:1.3; padding:0 5px; margin:0;">
