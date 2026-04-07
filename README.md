@@ -301,7 +301,7 @@ adaptándome a las necesidades de cada proyecto.
 <!--Seccion de Links-->
 
 <h2 align="center">ENLACE A DRIVE</h2>
-Recursos que he creado y desarrollado
+Enlaces Directos a mi Drive Personal
 <br><br>
 <!--Link del Drive-->
 <table align="left">
