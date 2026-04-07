@@ -314,6 +314,17 @@ Recursos que he creado y desarrollado
     </td>
   </tr>
 </table>
+<!--Link del CV-->
+<table align="left">
+  <tr>
+    <td align="center">
+      <a href="https://drive.google.com/drive/folders/14ZjrWb4VKIurCs9YLhg0tkQVGw5VzJo8?usp=sharing">
+        <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/LogoCV2.png" width="60"><br/>
+        Link del CV
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br clear="all"/>
 
