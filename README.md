@@ -129,17 +129,17 @@ adaptándome a las necesidades de cada proyecto.
 
 <table>
   <tr>
-    <td align="center">
+    <td align="center" >
       <b>Concept art/Dibujos</b>
       <br><br>
       <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/demonblade.jpg" width="100%">
-      Esta Espada la diseñe en photoshop jugando con paletas de colores complementarias verde/roja
+      <p>Esta Espada la diseñe en photoshop jugando con paletas de colores complementarias verde/roja</p>
     </td>
     <td align="center">
       <b>Modelos 3D</b>
       <br><br>
       <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/PilarProp.png" width="100%">
-      Este Modelo 3D son unos Assets que cree y ocupe en un proyecto de Escenario con tematica Griega
+      <p>Este Modelo 3D son unos Assets que cree y ocupe en un proyecto de Escenario con tematica Griega</p>
     </td>
   </tr>
   <tr>
