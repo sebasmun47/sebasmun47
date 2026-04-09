@@ -348,6 +348,7 @@ Mis Redes
   <tr>
     <td align="center"><b>Correo</b></td>
     <td align="center"><b>ArtStation</b></td>
+    <td align="center"><b>Sketchfab</b></td>
   </tr>
 
   <!-- ICONOS -->
@@ -360,6 +361,11 @@ Mis Redes
     <td align="center">
       <a href="https://www.artstation.com/sebashhx_mun99">
         <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/LogoArtStationpng.png" width="60">
+      </a>
+    </td>
+     <td align="center">
+      <a href="https://sketchfab.com/SebmunozX">
+        <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/LogoSketchfab.png" width="60">
       </a>
     </td>
   </tr>
@@ -378,7 +384,7 @@ Mis Redes
   <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/MorganaLogoC.png" width="100" />
 </p>
 
-<h2 align="center">Gracias Por Visitar mi Portafolio, contactame a mi correo sobre cualquier duda </h2>
+<h2 align="center">Gracias Por Visitar mi Portafolio, No dudes contactame a mi correo sobre cualquier duda!</h2>
 <br><br>
 <!--Boton Volver-->
 <table align="center">
