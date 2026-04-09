@@ -117,13 +117,13 @@ creación de videojuegos, una disciplina que
 no solo me apasiona, sino que también disfruto
 profundamente.
 Dentro de las distintas áreas del desarrollo, 
-tengo una especial afinidad por el level design, 
-ya que me motiva crear y construir escenarios
-coherentes y significativos a partir de él amor
-que tengo por los videojuegos. Además, cuento con
-experiencia con el modelado 3D, lo que me permite
-diseñar y hacer mis propios Assets, props y
-environment de los mundos que creo.
+tengo una especial afinidad por el level design y
+la arquitectura, ya que me motiva crear y construir
+escenarios coherentes y significativos a partir de
+el amor que tengo por los videojuegos. Además, cuento
+con experiencia con el modelado 3D, lo que me permite
+diseñar y hacer mis propios Assets, props y el
+environment general de los mundos que creo.
 Aun así, mi perfil generalista me permite desempeñarme
 de manera sólida en distintas áreas del desarrollo,
 adaptándome a las necesidades de cada proyecto.
