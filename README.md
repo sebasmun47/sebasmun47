@@ -168,7 +168,7 @@ adaptándome a las necesidades de cada proyecto.
       <b>Modelos 3D</b><br>
       <b></b><br>
       <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/PilarProp.png" 
-           width="580" height="560" style="border-radius: 8px; margin: 5px 0;">
+           width="580" height="260" style="border-radius: 8px; margin: 5px 0;">
       <div style="min-height:50px; line-height:1.3; padding:0 5px; margin:0;">
         Este Modelo 3D son unos Assets que cree y ocupe en un proyecto de Escenario con tematica Griega
       </div>
@@ -194,7 +194,7 @@ adaptándome a las necesidades de cada proyecto.
 ### Algunos de elementos Visuales que eh desarrollado por mi cuenta 
 
 <table border="0" cellpadding="10" cellspacing="0" style="width:100%; border-collapse: collapse;">
-  <tr style="height:620px;">
+  <tr style="height:220px;">
     <td width="50%" align="center" valign="top">
       <b>Efecto Visual: Particula de Chispa</b><br>  
       <b></b><br>
@@ -208,7 +208,7 @@ adaptándome a las necesidades de cada proyecto.
       <b>UI & UX</b><br>
       <b></b><br>
       <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/PhotonProject.png" 
-           width="580" height="560" style="border-radius: 8px; margin: 5px 0;">
+           width="580" height="260" style="border-radius: 8px; margin: 5px 0;">
       <div style="min-height:50px; line-height:1.3; padding:0 5px; margin:0;">
         Sprites 2D diseñados para interfaces de usuario en proyectos de videojuegos, este proyecto lo desarrolle junto a 2 compañeros donde yo me encargue de la programación y todo lo relacionado al diseño de la IU y UX
       </div>
