@@ -154,12 +154,12 @@ adaptándome a las necesidades de cada proyecto.
 ### Algunos de mis trabajos   
 
 <table border="0" cellpadding="10" cellspacing="0" style="width:100%; border-collapse: collapse;">
-  <tr style="height:420px;">
+  <tr style="height:220px;">
     <td width="50%" align="center" valign="top">
       <b>Concept art/Dibujos</b><br>
       <b></b><br>
       <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/demonblade.jpg" 
-           width="580" height="560" style="border-radius: 8px; margin: 5px 0;">
+           width="580" height="260" style="border-radius: 8px; margin: 5px 0;">
       <div style="min-height:50px; line-height:1.3; padding:0 5px; margin:0;">
         Esta Espada la diseñe en photoshop jugando con paletas de colores complementarias verde/roja
       </div>
@@ -232,7 +232,7 @@ adaptándome a las necesidades de cada proyecto.
 ### Algunos de mis Proyectos  
 
 <table border="0" cellpadding="10" cellspacing="0" style="width:100%; border-collapse: collapse;">
-  <tr style="height:620px;">
+  <tr style="height:320px;">
     <td width="50%" align="center" valign="top">
       <b>Unity</b><br>
       <b></b><br>
