@@ -52,14 +52,14 @@ Y Mis roles principales donde me gustaria desempeñarme son:
   <tr style="height:620px;">
     <td width="50%" align="center" valign="top">
       <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/VRProyect.png" 
-           width="580" height="260" style="border-radius: 8px; margin: 5px 0;">
+           width="426" height="240" style="border-radius: 8px; margin: 5px 0;">
       <div style="min-height:50px; line-height:1.3; padding:0 5px; margin:0;">
         Escena de trancision/intro a la experiencia de Realidad Virtual desarrollada en 2025
       </div>
     </td>
     <td width="50%" align="center" valign="top">
       <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/VRProyect2.png" 
-           width="580" height="260" style="border-radius: 8px; margin: 5px 0;">
+           width="426" height="246" style="border-radius: 8px; margin: 5px 0;">
       <div style="min-height:50px; line-height:1.3; padding:0 5px; margin:0;">
         Prototipo de experiencia en Realidad Virtual desarrollado en Unity por mi y 2 compañeros más, en el cual yo me encargue de una parte del codigo y que todo funcionara, animaciones de los enemigos, y una parte del apartado visual
       </div>
