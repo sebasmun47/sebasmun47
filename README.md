@@ -406,6 +406,6 @@ Mis Redes
 <h2 align="center"></h2>
 Portafolio Desarrollado por mi mismo en constante actualización
 <br><br><!--Espacio entre secciones-->
-Last Edited On: 07/04/2026
+Last Edited On: 15/04/2026
 
 
