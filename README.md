@@ -237,7 +237,7 @@ adaptándome a las necesidades de cada proyecto.
       <b>Unity</b><br>
       <b></b><br>
       <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/SSUnity1.png.png" 
-           width="580" height="560" style="border-radius: 8px; margin: 5px 0;">
+           width="580" height="260" style="border-radius: 8px; margin: 5px 0;">
       <div style="min-height:50px; line-height:1.3; padding:0 5px; margin:0;">
         Proyecto desarrollado en Unity Engine el cual estoy desarrollando actualmente, es un escenario que es una abstraccion del Antiguo Hospital San jose 
       </div>
@@ -246,7 +246,7 @@ adaptándome a las necesidades de cada proyecto.
       <b>Unreal Engine</b><br>
       <b></b><br>
       <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/UnrealProject3D.png" 
-           width="580" height="560" style="border-radius: 8px; margin: 5px 0;">
+           width="580" height="260" style="border-radius: 8px; margin: 5px 0;">
       <div style="min-height:50px; line-height:1.3; padding:0 5px; margin:0;">
         Proyecto desarrollado por mi unicamente en Unreal Engine 5 para testiar y poner en practica apartados basicos del motor
         <b></b><br>
@@ -269,7 +269,7 @@ adaptándome a las necesidades de cada proyecto.
       <b>Unity 2D</b><br>
       <b></b><br>
       <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/2DProject.png" 
-           width="580" height="560" style="border-radius: 8px; margin: 5px 0;">
+           width="580" height="260" style="border-radius: 8px; margin: 5px 0;">
       <div style="min-height:50px; line-height:1.3; padding:0 5px; margin:0;">
         Proyecto 2D Plataformero desarrollado unicamente por mi en Unity en primer año, aprox 2021-2022
       </div>
@@ -278,7 +278,7 @@ adaptándome a las necesidades de cada proyecto.
       <b>Unity Android</b><br>
       <b></b><br>
       <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/3DAndroidApkProject.png" 
-           width="580" height="560" style="border-radius: 8px; margin: 5px 0;">
+           width="580" height="260" style="border-radius: 8px; margin: 5px 0;">
       <div style="min-height:50px; line-height:1.3; padding:0 5px; margin:0;">
         Proyecto 3D para móviles Android en Unity por mi mismo aproximadamente el 2024
       </div>
