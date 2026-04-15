@@ -237,7 +237,7 @@ adaptándome a las necesidades de cada proyecto.
       <b>Unity</b><br>
       <b></b><br>
       <img src="https://raw.githubusercontent.com/sebasmun47/sebasmun47/main/SSUnity1.png.png" 
-           width="580" height="260" style="border-radius: 8px; margin: 5px 0;">
+           width="426" height="240" style="border-radius: 8px; margin: 5px 0;">
       <div style="min-height:50px; line-height:1.3; padding:0 5px; margin:0;">
         Proyecto desarrollado en Unity Engine el cual estoy desarrollando actualmente, es un escenario que es una abstraccion del Antiguo Hospital San jose 
       </div>
